@@ -1,0 +1,1 @@
+epmautomate encrypt yourpasswordhere myKey passwordFile.epw
